@@ -1,0 +1,6 @@
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\bin\Debug\UsbMagician.exe.config
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\bin\Debug\UsbMagician.exe
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\bin\Debug\UsbMagician.pdb
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\obj\Debug\UsbMagician.csproj.CoreCompileInputs.cache
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\obj\Debug\UsbMagician.exe
+C:\Users\ka_res\Documents\Visual Studio 2017\Projects\UsbMagician\UsbMagician\obj\Debug\UsbMagician.pdb
