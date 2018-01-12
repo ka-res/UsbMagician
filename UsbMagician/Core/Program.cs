@@ -12,7 +12,7 @@ namespace UsbMagician.Core
 {
     class Program
     {
-        private static readonly string SystemPath = @"C:\Users\" + Environment.UserName + @"\Desktop\UM\";
+        private static readonly string SystemPath = @"C:\Users\" + Environment.UserName + @"\Desktop\";
 
         static void Main(string[] args)
         {

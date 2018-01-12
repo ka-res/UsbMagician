@@ -12,7 +12,7 @@ namespace UsbMagician.Events
 {
     class EventsManager
     {
-        private static readonly string SystemPath = @"C:\Users\" + Environment.UserName + @"\Desktop\UM\";
+        private static readonly string SystemPath = @"C:\Users\" + Environment.UserName + @"\Desktop\";
 
         public static void EventsListener()
         {
